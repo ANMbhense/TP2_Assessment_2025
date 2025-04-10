@@ -1,18 +1,16 @@
 # Technical Programming 2 Assessment – TP2_Assessment_2025
 
-## 🎓 Course: Technical Programming 2 – TPRO200/TLPR200  
-## 👨‍🏫 Lecturer: Mr. X Piyose
+Course: Technical Programming 2 – TPRO200/TLPR200  
+Lecturer: Mr. X Piyose
+
+ Group Members:
+Mbhense AN  – 22440270  
+Ntuli AL  – 22432331  
 
 ---
 
-### 👥 Group Members:
-- **Mbhense AN** – 22440270  
-- **AL Ntuli** – 22432331  
-
----
-
-### 📌 Project Theme:
-**Tourism and Cultural Diversity in South Africa**
+Project Theme:
+Tourism and Cultural Diversity in South Africa**
 
 This project demonstrates a full data analysis pipeline using Python on Google Colab:
 - Dataset Sourcing
@@ -22,28 +20,27 @@ This project demonstrates a full data analysis pipeline using Python on Google C
 - Data Slicing
 - Data Visualization & Insight Generation
 
----
 
-### 📽️ Video Presentation:
+
+Video Presentation:
 [Watch on YouTube](https://youtu.be/HOF9CzdFrw4)
 
 ---
 
-### 🔗 Colab Notebook:
-[Open in Google Colab](https://colab.research.google.com/drive/your-notebook-link)
+🔗 Colab Notebook:
+[Open in Google Colab](https://colab.research.google.com/drive/1FNlAHu0gr0TES20SMBRkwBAUXJ0-BDEc?authuser=0#scrollTo=85QYh8cs96Bo)
 
 ---
 
-### 💻 GitHub Repository:
-[GitHub Repository](https://github.com/yourusername/TP2_Assessment_2025)
+GitHub Repository:
+[GitHub Repository](https://github.com/ANMbhense/TP2_Assessment_2025)
 
 ---
 
-### 📊 Dataset Source:
+Dataset Source:
 Daily Tourism Survey (2022) from DataFirst (UCT):  
 [https://www.datafirst.uct.ac.za/dataportal/index.php/catalog/1004](https://www.datafirst.uct.ac.za/dataportal/index.php/catalog/1004)
 
 ---
-
-### 🛡️ License:
+License:
 Creative Commons Attribution 4.0 (CC-BY 4.0)
